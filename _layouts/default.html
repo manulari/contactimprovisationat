@@ -5,15 +5,45 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="css/temp.css" />
+  <link rel="stylesheet" href="css/dstyle.css" />
+  <link rel="stylesheet" href="css/menu.css" />
   <link rel="stylesheet" href="css/style.css" />
   <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
   <![endif]-->
 </head>
 <body>
-    {% include navigation.html %}
-    <div class="maincontent">
+  <div id="main">
+    <div id="logo">
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td align="left">Somatisches Lernen</td>
+          <td align="left"></td>
+          <td align="right">Körperarbeit - Bewegung - Tanz</td>
+        </tr></tbody>
+      </table>
+    </div>
+
+    <div id="menu">
+      {% include navigation.html %}
+    </div>
+
+    <div id="site_content" class="maincontent bodytext">
     {{ content }}
     </div>
+
+    <div id="footer">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <tbody><tr>
+    <td align="left">Kontakt: <a href="mailto:christian.ap@gmx.net">Christian Apschner</a>, Vorgartenstraße 112/25, 1020 Wien, +43 650 8931081</td>
+    <td align="left"><a href="/impressum">Impressum / Datenschutz</a></td>
+    </tr>
+    </tbody>
+    </table>
+    </div>
+
+  </div>
+
 </body>
 </html>
