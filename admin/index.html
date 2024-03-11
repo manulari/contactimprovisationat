@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Content Manager</title>
+  </head>
+  <body>
+    <!-- Include the script that builds the page and powers Netlify CMS -->
+    <!--
+      <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+    -->
+    <script src="netlify-cms.js"></script>
+<script>
+function htmlspecialchars(str) {
+    var map = {
+        "&": "&amp;",
+        "<": "&lt;",
+        ">": "&gt;",
+        "\"": "&quot;",
+        "'": "&#39;" // ' -> &apos; for XML only
+    };
+    return str.replace(/[&<>"']/g, function(m) { return map[m]; });
+}
+function htmlspecialchars_decode(str) {
+    var map = {
+        "&amp;": "&",
+        "&lt;": "<",
+        "&gt;": ">",
+        "&quot;": "\"",
+        "&#39;": "'"
+    };
+    return str.replace(/(&amp;|&lt;|&gt;|&quot;|&#39;)/g, function(m) { return map[m]; });
+}
+
+CMS.registerPreviewStyle("preview.css");
+
+CMS.registerEditorComponent({
+  // Internal id of the component
+  id: "named-anchor",
+  // Visible label
+  label: "Hinspringpunkt",
+  // Fields the user need to fill out when adding an instance of the component
+  fields: [
+    {
+      name: 'id',
+      label: 'Id',
+      widget: 'string'
+    }
+  ],
+  // Regex pattern used to search for instances of this block in the markdown document.
+  // Patterns are run in a multline environment (against the entire markdown document),
+  // and so generally should make use of the multiline flag (`m`). If you need to capture
+  // newlines in your capturing groups, you can either use something like
+  // `([\S\s]*)`, or you can additionally enable the "dot all" flag (`s`),
+  // which will cause `(.*)` to match newlines as well.
+  //
+  // Additionally, it's recommended that you use non-greedy capturing groups (e.g.
+  // `(.*?)` vs `(.*)`), especially if matching against newline characters.
+  pattern: /^<div class="named-anchor" id="(.*?)"><\/div>$/,
+  // Given a RegExp Match object
+  // (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/match#return_value),
+  // return an object with one property for each field defined in `fields`.
+  //
+  // This is used to populate the custom widget in the markdown editor in the CMS.
+  fromBlock: function(match) {
+    return {
+      id: match[1]
+    };
+  },
+  // Given an object with one property for each field defined in `fields`,
+  // return the string you wish to be inserted into your markdown.
+  //
+  // This is used to serialize the data from the custom widget to the
+  // markdown document
+  toBlock: function(data) {
+    return `<div class="named-anchor" id="${data.id}"></div>`;
+  },
+  // Preview output for this component. Can either be a string or a React component
+  // (component gives better render performance)
+  toPreview: function(data) {
+    return `<div class="named-anchor" id="${data.id}"></div>`;
+    //return `<div class="named-anchor"><a id="${data.id}"></a></div>adsa<script defer>document.currentScript.parentNode.replaceWith(document.currentScript.parentNode.firstChild);<\/script>`;
+    //return [ h('div', { class: "named-anchor" }, [ h('a', { id: data.id }) ] ) ];
+  }
+});
+
+CMS.registerEditorComponent({
+  id: 'imglink',
+  label: 'Bildlink',
+  fields: [
+    {
+      name: 'image',
+      label: 'Bild',
+      widget: 'image',
+      media_library: {
+        allow_multiple: false,
+      }
+    },
+    {
+      name: 'href',
+      label: 'Link',
+      widget: 'string',
+    },
+    {
+      name: 'caption',
+      label: 'Subtitel',
+      widget: 'string',
+    }
+  ],
+  pattern: /^<div class="imglink"><a target="_blank" href="(.*?)"><img src="(.*?)" alt="" \/><div>(.*?)<\/div><\/a><\/div>$/,
+  fromBlock: function(match) {
+    return {
+      image: match[2],
+      href: match[1],
+      caption: htmlspecialchars_decode(match[3])
+    };
+  },
+  toBlock: function(data) {
+    let caption = htmlspecialchars(data.caption);
+    return `<div class="imglink"><a target="_blank" href="${data.href}"><img src="${data.image}" alt="" \/><div>${caption}<\/div><\/a><\/div>`;
+  },
+  toPreview: function(data, getAsset, fields) {
+    let caption = htmlspecialchars(data.caption);
+    let imageField = fields && fields.find(f => f.get('widget') === 'image');
+    const src = getAsset(data.image, imageField);
+    return `<div class="imglink"><a target="_blank" href="${data.href}"><img src="${src}" alt="" \/><div>${caption}<\/div><\/a><\/div>`;
+  }
+});
+
+
+</script>
+  </body>
+</html>

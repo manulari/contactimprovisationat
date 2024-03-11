@@ -1,0 +1,15 @@
+---
+---
+@import 'contentStyle';
+@include attop;
+@import 'variables';
+@import 'normalize';
+@import 'myreset';
+
+.maincontent {
+  @include maincontent;
+}
+
+
+.mainnav .active { color: red; }
+
