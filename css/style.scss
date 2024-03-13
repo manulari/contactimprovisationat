@@ -12,6 +12,26 @@
   @include maincontent;
 }
 
+.mainnav
+{
+  display: flex;
+  flex-flow: row wrap;
+  width: 100%;
+  background: #707070;
+  color: #f6f7da;
+}
 
-.mainnav .active { color: red; }
+.mainnav a
+{
+  flex-grow: 1;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+  color: inherit;
+}
+
+.mainnav .active
+{
+  background: #518b89;
+}
 

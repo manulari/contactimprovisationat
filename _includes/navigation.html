@@ -1,7 +1,7 @@
 <nav class="mainnav">
-  <ul>
+  <!--  <ul> -->
     {% for item in site.data.nav.entries %}
-    <li>
+    <!-- <li> -->
       {% assign firstchar = item.path | slice: 0 %}
       {% if firstchar == '/' %}
       {% assign itempath = item.path %}
@@ -12,23 +12,23 @@
         {{ item.title }}
       </a>
       {% if item.subentries %}
-      <ul>
+      <!-- <ul> -->
         {% for subitem in item.subentries %}
-        <li>
-      {% assign firstchar = subitem.path | slice: 0 %}
-      {% if firstchar == '/' %}
-      {% assign subitempath = subitem.path %}
-      {% else %}
-      {% assign subitempath = '/' | append: subitem.path %}
-      {% endif %}
+        <!-- <li> -->
+        {% assign firstchar = subitem.path | slice: 0 %}
+        {% if firstchar == '/' %}
+        {% assign subitempath = subitem.path %}
+        {% else %}
+        {% assign subitempath = '/' | append: subitem.path %}
+        {% endif %}
           <a href="{{ subitempath }}" {% if page.url == subitempath %}class="active"{% endif %}>
             {{ subitem.title }}
           </a>
-        </li>
+        <!-- </li> -->
         {% endfor %}
-      </ul>
+      <!-- </ul> -->
       {% endif %}
-    </li>
+    <!-- </li> -->
     {% endfor %}
-  </ul>
+  <!-- </ul> -->
 </nav>
