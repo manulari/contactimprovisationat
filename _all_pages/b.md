@@ -1,5 +1,5 @@
 ---
-permalink: b
+permalink: /b
 title: B
 ---
 B

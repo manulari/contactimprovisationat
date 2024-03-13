@@ -1,5 +1,5 @@
 ---
-permalink: syntax
+permalink: /syntax
 title: Syntax
 ---
 # Überschrift 1
