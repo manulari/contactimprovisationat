@@ -33,6 +33,10 @@ div.imglink {
   width: min-content;
 }
 
+img {
+  max-width: 100%;
+}
+
 // flash target when jumping within page
 .named-anchor:target+* {
   animation-name: flash-target;
