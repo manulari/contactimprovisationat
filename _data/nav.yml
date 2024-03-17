@@ -1,8 +1,6 @@
 entries:
   - title: Startseite
     path: /
-  - title: Syntax
-    path: syntax
   - title: A
     path: /a
     subentries: []
