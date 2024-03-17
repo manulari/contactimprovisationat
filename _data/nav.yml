@@ -4,14 +4,8 @@ entries:
   - title: Syntax
     path: syntax
   - title: A
-    path: a
-    subentries:
-      - title: A-A
-        path: a-a
-      - title: A-B
-        path: a-b
+    path: /a
+    subentries: []
   - title: B
-    path: b
-    subentries:
-      - title: B-A
-        path: b-a
+    path: /b
+    subentries: []
