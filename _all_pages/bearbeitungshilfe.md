@@ -2,6 +2,10 @@
 permalink: /bearbeitungshilfe
 title: Bearbeitungshilfe
 ---
+Hier siehst du, ob deine Änderungen bereits online sind:\
+<https://github.com/manulari/retuneat/actions>\
+(Dauert meist etwa eine Minute, kann länger dauern bei vielen Änderungen hintereinander.)
+
 Folgende Bearbeitungsmöglichkeiten gibt es:
 
 Überschriften:
@@ -103,8 +107,6 @@ Bilder:
 Bei "alt text" eine kurze Beschreibung des Bildes eingeben - ist für Blinde und Menschen mit Sehbehinderung, sowie für Suchmaschinen relevant.
 
 ![maRia und Christian tanzen auf einer Stiege](/assets/uploads/smile.png "rollingpoint")
-
-
 
 Bild mit Link
 
