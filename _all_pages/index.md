@@ -8,7 +8,7 @@ title: Somatisches Lernen
 
 ![Christian Apschner bietet Körperarbeit an](/assets/uploads/startseite_01.jpg)
 
-Auf den diversen Unterseiten finden sich Informationenzu meinem Angebot in den Bereichen **Körperarbeit** (**Trager,**  **Ortho-Bionomy**), **"gesunde Kraft"**, **somatisches Lernen**, **zeitgenössischer Tanz** und **Contact Improvisation**.
+Auf den diversen Unterseiten finden sich Informationenzu meinem Angebot in den Bereichen **[Körperarbeit](/koerperarbeit)** (**Trager,**  **Ortho-Bionomy**), **"gesunde Kraft"**, **somatisches Lernen**, **zeitgenössischer Tanz** und **Contact Improvisation**.
 
 Durch meine fundierten Ausbildungen und langjährige Bewegungserfahrung als Tänzer, Sportler und Künstler biete ich effiziente Wege an, sich **freier**, **leichter** und **müheloser** zu bewegen und damit den Anforderungen des Lebens mit Freude, gesund und kraftvoll zu begegnen.
 
