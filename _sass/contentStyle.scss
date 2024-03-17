@@ -50,5 +50,36 @@ img {
   }
 }
 
+:not(h1):not(h2):not(h3):not(h4):not(h5):not(h6) { // any element that's not a heading
+&:not(.named-anchor),&+.named-anchor { // but ignore .named-anchor
+  &+h1,&+h2,&+h3,&+h4,&+h5,&+h6 { // heading following this element
+    margin-top: 30px; // should have a margin-top
+  }
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Roboto', sans-serif;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+td, th {
+  border: 1px solid #408f9d;
+  padding: 3px;
+}
+
+}
+
+code { color: red; font-weight: 600; font-family: inherit; }
+blockquote {
+  margin: 30px 0px;
+  padding: 10px 20px;
+  border: 2px solid #b13b66;
+  border-radius: 5px;
+  color: #b13b66;
+}
 
 }
