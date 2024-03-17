@@ -11,7 +11,7 @@ collections:
   - name: 'global_config'
     label: 'Settings'
     files:
-      - label: "Header/Footer"
+      - label: "Global Settings"
         name: 'settings'
         file: "_data/settings.yml"
         editor:
