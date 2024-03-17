@@ -12,8 +12,8 @@ collections:
     label: 'Settings'
     files:
       - label: "Header/Footer"
-        name: 'headerfooter'
-        file: "_data/headerfooter.yml"
+        name: 'settings'
+        file: "_data/settings.yml"
         editor:
           preview: false
         fields:
@@ -21,6 +21,13 @@ collections:
             label: 'Header'
             widget: 'markdown'
             minimal: true
+          - name: 'footer'
+            label: 'Footer'
+            widget: 'markdown'
+            minimal: true
+          - name: 'favicon'
+            label: 'favicon (wird im Tab angezeigt)'
+            widget: 'image'
       - label: "Menu"
         name: 'nav'
         file: '_data/nav.yml'

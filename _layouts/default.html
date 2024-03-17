@@ -13,8 +13,9 @@
 <body>
   <div id="main">
     <div id="logo">
-      <div style="font-family: Rubik;">Somatisches Lernen</div>
-      <div>Körperarbeit - Bewegung - Tanz</div>
+      {{ site.data.settings.header | markdownify }}
+<!--      <div style="font-family: Rubik;">Somatisches Lernen</div>
+<div>Körperarbeit - Bewegung - Tanz</div>-->
     </div>
 
     {% include navigation.html %}
