@@ -1,5 +1,5 @@
 ---
-permalink: /b
-title: B
+permalink: /orthobionomy
+title: Ortho-Bionomy
 ---
 B
