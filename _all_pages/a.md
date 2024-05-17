@@ -1,6 +1,6 @@
 ---
-permalink: /a
-title: A
+permalink: /trager
+title: Trager Körperarbeit
 ---
 a
 
