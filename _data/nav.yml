@@ -1,11 +1,3 @@
 entries:
   - title: Startseite
     path: /
-  - title: Trager Körperarbeit
-    path: /trager
-    subentries: []
-  - title: Ortho-Bionomy
-    path: /orthobionomy
-    subentries: []
-  - title: Contact Improvisation
-    path: contactimpro
