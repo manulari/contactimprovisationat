@@ -26,6 +26,12 @@ body {
   padding-bottom: 50px;
 }
 
+a.logo {
+  opacity: initial;
+  color: inherit;
+  text-decoration: inherit;
+}
+
 #logo {
   display: flex;
   flex-flow: row wrap;
