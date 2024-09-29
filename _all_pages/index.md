@@ -23,7 +23,7 @@ What you will find here:
 ## News
 
 Some jams are already back on schedule, some are not - please check the calendar before going!  
-WUK-Jam will be back on fridays, and there will be an new Jam at 'Semmelweißklinik' from the end of September. (18.09.2024)
+WUK-Jam will be back on **some** Fridays, and there will be an new Jam at 'Semmelweißklinik' from the end of September. (18.09.2024)
 
 We're on telegram now. For those who can't or don't want to check our fb-group, we have started a telegram-chanel where we post all the information from the fb-group. stay updated! 
 <https://t.me/contactimprovisationwien> (16.1.2024)

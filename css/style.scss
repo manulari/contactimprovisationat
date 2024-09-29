@@ -11,6 +11,23 @@
 
 @include unscoped;
 
+body#onlyon-jams {
+  #content { 
+    flex-flow: column;
+  }
+
+  .boxed {
+    width: 100%;
+    img {
+      float: left;
+    }
+    blockquote
+    {
+      display: inline-block;
+    }
+  }
+}
+
 #content {
   @include maincontent;
 }

@@ -5,7 +5,7 @@ backend:
   base_url: https://3ssli916pk.execute-api.eu-central-1.amazonaws.com
   auth_endpoint: /prod/auth
   branch: main # Branch to update (optional; defaults to master)
-media_folder: 'assets/uploads'
+media_folder: 'images/content/'
 site_url: https://new.contactimprovisation.at/
 collections:
   - name: 'global_config'
