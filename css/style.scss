@@ -15,6 +15,14 @@
   @include maincontent;
 }
 
+#content {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 2rem;
+}
+
 html {
   line-height: 1.5;
   font-size: 16px;

@@ -74,22 +74,25 @@ a.imglink {
 .importantbox {
   max-width: 1200px;
   padding: 0.5rem 1.5rem 0.5rem;
-  margin: 1rem auto 1rem;
+  margin: 1rem 0 1rem;
   display: inline-block;
   background-image: url("/images/background.png");
   background-size: 100% 100%;
+  flex: 2;
 }
 
 a {
   word-wrap: break-word;
+  text-decoration: underline;
 }
 
-div.boxed {
+.boxed {
   border: 1.0rem solid #4CAF50;
   border-radius: 2rem;
   padding: 0.6rem 0.6rem 0.6rem;
   margin-bottom: 0.6rem;
   border-image: url(/images/border.svg) 50 50 50 50 stretch;
+  flex: 1;
 }
 
 /* not sure if i want the next two? */

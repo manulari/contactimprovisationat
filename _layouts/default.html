@@ -11,6 +11,23 @@
   <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
   <![endif]-->
+  <script>
+    function retarget_external()
+    {
+      for (var links = document.links, i = 0, a; a = links[i]; i++) {
+              if (a.host !== location.host) {
+                      a.target = '_blank';
+              }
+      }
+    }
+    if (document.readyState === "loading") {
+      // Loading hasn't finished yet
+      document.addEventListener("DOMContentLoaded", retarget_external);
+    } else {
+      // `DOMContentLoaded` has already fired
+      retarget_external();
+    }
+  </script>
 </head>
 <body>
   <div id="main">
