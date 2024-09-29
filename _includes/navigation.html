@@ -1,7 +1,7 @@
-<nav class="mainnav">
-  <!--  <ul> -->
+<nav id="navigation">
+  {%comment%}<ul>{%endcomment%}
     {% for item in site.data.nav.entries %}
-    <!-- <li> -->
+    {%comment%}<li>{%endcomment%}
       {% assign firstchar = item.path | slice: 0 %}
       {% if firstchar == '/' %}
       {% assign itempath = item.path %}
@@ -12,9 +12,9 @@
         {{ item.title }}
       </a>
       {% if item.subentries %}
-      <!-- <ul> -->
+      {%comment%}<ul>{%endcomment%}
         {% for subitem in item.subentries %}
-        <!-- <li> -->
+        {%comment%}<li>{%endcomment%}
         {% assign firstchar = subitem.path | slice: 0 %}
         {% if firstchar == '/' %}
         {% assign subitempath = subitem.path %}
@@ -24,11 +24,11 @@
           <a href="{{ subitempath }}" {% if page.url == subitempath %}class="active"{% endif %}>
             {{ subitem.title }}
           </a>
-        <!-- </li> -->
+        {%comment%}</li>{%endcomment%}
         {% endfor %}
-      <!-- </ul> -->
+      {%comment%}</ul>{%endcomment%}
       {% endif %}
-    <!-- </li> -->
+    {%comment%}</li>{%endcomment%}
     {% endfor %}
-  <!-- </ul> -->
+  {%comment%}</ul>{%endcomment%}
 </nav>

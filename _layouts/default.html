@@ -4,7 +4,8 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
-  <title>{{ page.title }}</title>
+  <meta property="og:image" content="http://vienna.contactimprovisation.at/images/screenshots/vienna.contactimprovisation.at.png" />
+  <title>{{ page.title }} - contactimprovisation.at</title>
   <link rel="icon" href="{{ site.data.settings.favicon }}" />
   <link rel="stylesheet" href="css/style.css" />
   <!--[if lt IE 9]>
@@ -13,22 +14,16 @@
 </head>
 <body>
   <div id="main">
-    <a class="logo" href="/">
+    <div id="header">
       <div id="logo">
-        {{ site.data.settings.header | markdownify }}
+        <a {% if page.url == '/' %}class="active"{% endif %}
+          href="/">vienna.contactimprovisation.at</a>
       </div>
-    </a>
+      {% include navigation.html %}
+    </div>
 
-    {% include navigation.html %}
-
-    <div id="content-holder"><div class="maincontent">
+    <div id="content">
     {{ content }}
-    </div></div>
-
-    <div id="footer">
-      {{ site.data.settings.footer | markdownify }}
-<!--      <div>Kontakt: <a href="mailto:christian.ap@gmx.net">Christian Apschner</a>, Vorgartenstraße 112/25, 1020 Wien, +43 650 8931081</div>
-      <div><a href="/impressum">Impressum / Datenschutz</a></div>-->
     </div>
 
   </div>
