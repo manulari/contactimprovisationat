@@ -1,11 +1,3 @@
-header: |-
-  **Pilze**
-
-  Christian Apschner
-footer: >-
-  Kontakt: [Christian Apschner](mailto:christian.ap@gmx.net), Vorgartenstraße
-  112/25, 1020 Wien, +43 650 8931081
-
-
-  [Impressum / Datenschutz](/impressum)
+header: "**CI**"
+footer: F
 favicon: /assets/uploads/smile.png
