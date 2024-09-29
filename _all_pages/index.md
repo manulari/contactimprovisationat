@@ -1,7 +1,5 @@
 ---
 permalink: /
-title: Christians Schwammerlseite
+title: vienna.contactimprovisation.at
 ---
-# STARTSEITE
-
-**Willkommen** auf meiner Schwammerlseite!
+# vienna.contactimprovisation.at
