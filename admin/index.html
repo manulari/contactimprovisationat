@@ -128,6 +128,44 @@ CMS.registerEditorComponent({
   }
 });
 
+/*
+for (const cssclass of ['boxed', 'importantbox']) {
+  CMS.registerEditorComponent({
+    id: 'block_'+cssclass,
+    label: 'Block ' + cssclass,
+    fields: [],
+    pattern: new RegExp(`^<div class="${cssclass}">\n\n`),
+    fromBlock: function(match) {
+      return {};
+    },
+    toBlock: function(data) {
+      return `<div class="${cssclass}">\n\n`; 
+    },
+    toPreview: function(data, getAsset, fields) {
+      return `<div class="${cssclass}">\n\n`; 
+    }
+  });
+
+}
+
+CMS.registerEditorComponent({
+  id: 'endblock',
+  label: 'EndBlock',
+  fields: [],
+  pattern: new RegExp('^</div>\n\n'),//RegExp('^\\n</div>\\n$'),
+  fromBlock: function(match) {
+    return {};
+  },
+  toBlock: function(data) {
+    return '</div>\n\n'; 
+  },
+  toPreview: function(data, getAsset, fields) {
+    return '</div>\n\n'; 
+  }
+});
+*/
+
+
 
 </script>
   </body>

@@ -31,13 +31,13 @@
 </head>
 <body id="onlyon-{{ page.slug }}">
   <div id="main">
-    <div id="header">
+    <nav id="header">
       <div id="logo">
         <a {% if page.url == '/' %}class="active"{% endif %}
           href="/">vienna.contactimprovisation.at</a>
       </div>
       {% include navigation.html %}
-    </div>
+    </nav>
 
     <div id="content">
     {{ content }}

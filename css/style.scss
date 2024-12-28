@@ -11,6 +11,7 @@
 
 @include unscoped;
 
+/*
 body#onlyon-jams {
   #content { 
     flex-flow: column;
@@ -27,18 +28,12 @@ body#onlyon-jams {
     }
   }
 }
+*/
 
 #content {
   @include maincontent;
 }
 
-#content {
-  display: flex;
-  flex-flow: row wrap;
-  justify-content: center;
-  align-items: flex-start;
-  gap: 2rem;
-}
 
 html {
   line-height: 1.5;
@@ -53,7 +48,7 @@ body {
   border-bottom: 1vh solid transparent;
 }
 
-div#header a {
+nav#header a {
   position: relative;
   font-size: 1.5rem;
   text-decoration: none;
@@ -62,12 +57,12 @@ div#header a {
   background-size: 100% 100%;
 }
 
-div#header div#logo a {
+nav#header div#logo a {
   font-size: 4.6875vw; /*1.5*(100/32) */
 }
 
 @media only screen and (min-width: 32rem) {
-  div#header div#logo a {
+  nav#header div#logo a {
     font-size: 1.5rem;
   }
 }

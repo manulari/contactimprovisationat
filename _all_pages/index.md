@@ -3,7 +3,9 @@ permalink: /
 title: vienna.contactimprovisation.at
 ---
 
-<div class="importantbox">
+<section>
+
+<header>
 
 # Welcome to vienna.contactimprovisation.at!
 
@@ -16,9 +18,9 @@ What you will find here:
 * Special information [for beginners](/beginners)
 * All events can also be found in the [calendar](/calendar). 
 
-</div>
+</header>
 
-<div class="boxed">
+<aside>
 
 ## News
 
@@ -43,4 +45,6 @@ We're on telegram now. For those who can't or don't want to check our fb-group, 
   + [Contactus Salzburg](https://www.facebook.com/ContactImprovisationSalzburg/)
   + [Innsbruck Contact Jam](http://www.contactjam.at/)
 
-</div>
+</aside>
+
+</section>

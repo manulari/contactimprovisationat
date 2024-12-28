@@ -2,7 +2,8 @@
 permalink: /jams
 title: jams
 ---
-<div class="importantbox">
+
+<header>
 
 # Jams
 
@@ -16,13 +17,23 @@ As different jams have different atmospheres, we suggest to give all of them a t
 Some jams are already back on schedule, some are not - please check the calendar before going!\
 WUK-Jam will be back on **some** Fridays, and there will be an new Jam at 'Semmelweißklinik' from the end of September. (18.09.2024)
 
-</div>
 
-<div class="boxed">
+</header>
+
+
+<article>
 
 ## [rollingpoint jam](https://rollingpoint.at/jams)
 
+<section>
+
+<div>
+
 ![People moving in a jam space](/images/content/jam-rollingpoint.jpeg)
+
+</div>
+
+<div>
 
 When:
 
@@ -44,14 +55,19 @@ changing guest teachers.\
 Basic CI knowledge is required, except on
 [certain dates](https://rollingpoint.at/jams) when
 there is a beginner intro before the jam.
-
 </div>
 
-<div class="boxed">
+</section>
+
+</article>
+
+<article>
 
 ## [rollingpoint jam](https://rollingpoint.at/jams)
 
-![People moving in a jam space](/images/content/jam-rollingpoint.jpeg)
+b
+
+![People moving in a jam spaces](/images/content/jam-rollingpoint.jpeg)
 
 > When:  
 >
@@ -74,4 +90,4 @@ there is a beginner intro before the jam.
 > [certain dates](https://rollingpoint.at/jams) when
 > there is a beginner intro before the jam.
 
-</div>
+</article>
