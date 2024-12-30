@@ -27,11 +27,7 @@ WUK-Jam will be back on **some** Fridays, and there will be an new Jam at 'Semme
 
 <section>
 
-<div>
-
 ![People moving in a jam space](/images/content/jam-rollingpoint.jpeg)
-
-</div>
 
 <div>
 
@@ -55,6 +51,7 @@ changing guest teachers.\
 Basic CI knowledge is required, except on
 [certain dates](https://rollingpoint.at/jams) when
 there is a beginner intro before the jam.
+
 </div>
 
 </section>

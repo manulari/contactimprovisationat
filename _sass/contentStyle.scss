@@ -26,6 +26,8 @@ body {
 
 @mixin maincontent {
 
+word-wrap: break-word;
+
 /*
 & {
   display: flex;
@@ -36,7 +38,7 @@ body {
 }
 */
 
-& > section, article > section {
+/*& > section, article > */section {
   display: flex;
   flex-flow: row wrap;
   justify-content: center;
@@ -44,10 +46,30 @@ body {
   gap: 2rem;
 }
 
-article > section > div {
-  width: calc(50% - 2rem);
-  min-width: 400px;
+section > * {
+  //flex-basis: fit-content;//calc(50% - 2rem);
+  flex: 1;
+  //min-width: 6rem;
+  min-width: 20rem;
 }
+
+section > header {
+  flex-grow: 2;
+}
+
+.teachers {
+  article {
+    display: flex;
+    gap: 1rem;
+    & > :first-child {
+      flex: 1;
+    }
+    & > :nth-child(2) {
+      flex: 3;
+    }
+  }
+}
+
 
 header {
   max-width: 1200px;
@@ -56,7 +78,6 @@ header {
   display: inline-block;
   background-image: url("/images/background.png");
   background-size: 100% 100%;
-  flex: 2;
 }
 
 article, aside {
@@ -65,7 +86,6 @@ article, aside {
   padding: 0.6rem 0.6rem 0.6rem;
   margin-bottom: 0.6rem;
   border-image: url(/images/border.svg) 50 50 50 50 stretch;
-  flex: 1;
 }
 
 a {
@@ -120,6 +140,7 @@ a.imglink {
 
 
 /* not sure if i want the next two? */
+/*
 #content {
   text-align: center;
 }
@@ -127,7 +148,7 @@ a.imglink {
 #content > div {
   text-align: left;
 }
-
+*/
 
 /* starting from here it's old stuff from Christian's website */
 

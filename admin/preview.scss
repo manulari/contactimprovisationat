@@ -8,5 +8,6 @@
 @include unscoped;
 
 body {
+  margin: 0px;
   @include maincontent;
 }
