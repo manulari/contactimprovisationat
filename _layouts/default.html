@@ -30,20 +30,18 @@
   </script>
 </head>
 <body id="onlyon-{{ page.slug }}">
-  <div id="main">
-    <nav id="header">
-      <div id="logo">
-        <a {% if page.url == '/' %}class="active"{% endif %}
-          href="/">vienna.contactimprovisation.at</a>
-      </div>
-      {% include navigation.html %}
-    </nav>
-
-    <div id="content">
-    {{ content }}
+  <nav id="header">
+    <div id="logo">
+      <a {% if page.url == '/' %}class="active"{% endif %}
+        href="/">vienna.contactimprovisation.at</a>
     </div>
+    {% include navigation.html %}
+  </nav>
 
+  <div id="content">
+  {{ content }}
   </div>
+
 
 </body>
 </html>
