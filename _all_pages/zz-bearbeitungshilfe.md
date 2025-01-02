@@ -6,7 +6,7 @@ Hier siehst du, ob deine Änderungen bereits online sind:\
 <https://github.com/manulari/contactimprovisationat/>\
 (Dauert meist etwa eine Minute, kann länger dauern bei vielen Änderungen hintereinander.)
 
-Folgende Bearbeitungsmöglichkeiten gibt es:
+Folgende Bearbeitungsmöglichkeiten gibt es hier im Editor:
 
 Überschriften:
 
