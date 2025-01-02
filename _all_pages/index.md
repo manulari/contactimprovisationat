@@ -18,6 +18,8 @@ What you will find here:
 * Special information [for beginners](/beginners)
 * All events can also be found in the [calendar](/calendar). 
 
+More info about [this website and the people behind it](/about).
+
 </header>
 
 <aside>

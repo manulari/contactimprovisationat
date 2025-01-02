@@ -1,5 +1,5 @@
 ---
-permalink: /bearbeitungshilfe
+permalink: /zz-bearbeitungshilfe
 title: Bearbeitungshilfe
 ---
 Hier siehst du, ob deine Änderungen bereits online sind:\
