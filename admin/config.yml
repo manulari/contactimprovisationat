@@ -2,8 +2,9 @@ local_backend: true
 backend:
   name: github
   repo: manulari/contactimprovisationat
-  base_url: https://3ssli916pk.execute-api.eu-central-1.amazonaws.com
-  auth_endpoint: /prod/auth
+  base_url: https://sveltia-cms-auth.manuel-eder.workers.dev
+  #base_url: https://3ssli916pk.execute-api.eu-central-1.amazonaws.com
+  #auth_endpoint: /prod/auth
   branch: main # Branch to update (optional; defaults to master)
 media_folder: 'images/content/'
 site_url: https://new.contactimprovisation.at/
