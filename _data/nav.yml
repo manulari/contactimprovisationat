@@ -3,5 +3,7 @@ entries:
     path: /jams
   - title: learning
     path: /learning
+  - title: for beginners
+    path: /beginners
   - title: calendar
     path: /calendar

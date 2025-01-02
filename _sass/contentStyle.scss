@@ -121,6 +121,7 @@ article, aside {
 a {
   word-wrap: break-word;
   text-decoration: underline;
+  color: #4caf50;
 }
 
 h1 {
@@ -203,7 +204,6 @@ p > img:first-child {
 div.imglink {
   display: inline-block;
   vertical-align: top;
-  width: min-content;
 }
 
 img {

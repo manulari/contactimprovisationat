@@ -3,7 +3,7 @@ permalink: /bearbeitungshilfe
 title: Bearbeitungshilfe
 ---
 Hier siehst du, ob deine Änderungen bereits online sind:\
-<https://github.com/manulari/retuneat/actions>\
+<https://github.com/manulari/contactimprovisationat/>\
 (Dauert meist etwa eine Minute, kann länger dauern bei vielen Änderungen hintereinander.)
 
 Folgende Bearbeitungsmöglichkeiten gibt es:
@@ -38,9 +38,9 @@ B+I: Hier kommen ***fette und betonte*** Wörter.
 
 - - -
 
-Heraushebeblock:
+Blockquote
 
-> Dieser ganze Block wird besonders hervorgehoben.\
+> Dieser ganze Block wird etwas eingerückt hervorgehoben.\
 > Hier kann es Zeilenumbrüche und Absätze geben.
 >
 > Auch **die** *anderen* ***Formatierungen*** `funktionieren`.
