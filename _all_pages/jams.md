@@ -2,7 +2,6 @@
 permalink: /jams
 title: jams
 ---
-
 <header>
 
 # Jams
@@ -14,12 +13,12 @@ As different jams have different atmospheres, we suggest to give all of them a t
 
 ## News:
 
+Sunday-Jam is now starting an hour earlier! Doors open 18:15, Beginning Circle 18:30, entry until 19:30, Dancing until 20:30.
+
 Some jams are already back on schedule, some are not - please check the calendar before going!\
 WUK-Jam will be back on **some** Fridays, and there will be an new Jam at 'Semmelweißklinik' from the end of September. (18.09.2024)
 
-
 </header>
-
 
 <article>
 
@@ -37,8 +36,8 @@ When:
 
 Where:
 
-> Turnsaal der VS Einsiedlergasse  
-> Einsiedlergasse 7; 1050 Wien  
+> Turnsaal der VS Einsiedlergasse\
+> Einsiedlergasse 7; 1050 Wien\
 > ([google maps](https://goo.gl/maps/axnnJsAcbr5xyqnA7))
 
 Website: [rollingpoint.at/...](https://rollingpoint.at/jams)
@@ -58,8 +57,6 @@ there is a beginner intro before the jam.
 
 </article>
 
-
-
 <article>
 
 ## [Jam im Perform](https://www.xn--frhstck-software-kzbd.at/Jam)
@@ -78,15 +75,16 @@ Where:
 
 > PERFORM Studio, Studio Sol
 > Mariahilfer Straße 51   
-> 3. Innenhof, Stiege 6    
-> 1060 Wien
-> ([google maps](https://goo.gl/maps/quBwJEh4cbYWVxaW8))
+>
+> 3. Innenhof, Stiege 6\
+>    1060 Wien
+>    ([google maps](https://goo.gl/maps/quBwJEh4cbYWVxaW8))
 
 Website: <https://www.xn--frhstck-software-kzbd.at/Jam>
 
 Hosting Team: Sabine Radlegger, Christoph Ruip, Susanne Aichinger, Helmut Proissl,
-Erich Frühstück;  
-fee: 10€  
+Erich Frühstück;\
+fee: 10€\
 75m², wooden floor; average 5-10 dancers.
 
 </div>
@@ -94,7 +92,6 @@ fee: 10€
 </section>
 
 </article>
-
 
 <article>
 
@@ -112,23 +109,23 @@ When:
 
 Where:
 
-> Turnsaal der Volksschule  
-> Schönngasse 2-4  
-> 1020 Wien  
+> Turnsaal der Volksschule\
+> Schönngasse 2-4\
+> 1020 Wien\
 > ([google maps](https://goo.gl/maps/mrP4ZjE1FH7ypiBQ6))
 
 Website: <https://movementlab.eu/weekly-jams> 
 
-Hosted by Matan Levkowich, Juli Gabor and guest teachers  
-Fee: 8-10€/sliding scale   
-120m², wooden floor; average 15-20 dancers   
+Hosted by Matan Levkowich, Juli Gabor and guest teachers\
+Fee: 8-10€/sliding scale\
+120m², wooden floor; average 15-20 dancers\
 Not recommended for people without any past experience with Contact Improvisation.  
+
 </div>
 
 </section>
 
 </article>
-
 
 <article>
 
@@ -146,25 +143,25 @@ When:
 
 Where:
 
-> WUK  
-> Währinger Straße 59  
-> 1090 Wien  
-> at room "Flieger" - staircase from the courtyard  
+> WUK\
+> Währinger Straße 59\
+> 1090 Wien\
+> at room "Flieger" - staircase from the courtyard\
 > ([google maps](https://goo.gl/maps/CPWbQcodfvv)) 
 
 Website: <https://www.wuk.at/angebot/contact-improvisation-jam/>
 
-Hosting-team: Juli Gabor, Lena Maya Turek;  
-Fee: 5-15€  
-100m²; average 10 dancers  
-Silent jam    
+Hosting-team: Juli Gabor, Lena Maya Turek;\
+Fee: 5-15€\
+100m²; average 10 dancers\
+Silent jam\
 For dancers with solid previous experience in CI.  
+
 </div>
 
 </section>
 
 </article>
-
 
 <article>
 
@@ -182,24 +179,24 @@ When:
 
 Where:
 
-> Prana Yoga Studio 1    
-> Mariahilfer Straße 82; 1070 Wien  
+> Prana Yoga Studio 1\
+> Mariahilfer Straße 82; 1070 Wien\
 > ([google maps](https://goo.gl/maps/sRAJw5EYncHzsVr18))
 
 [Facebook group](https://www.facebook.com/groups/ContactImprovisationWien/permalink/9987013021369822)
 
-Hosted by Stefan Prowaznik, Barbara Reschenhofer, Barbara Rappauer, Ingrid Hörlezeder  
-Fee: 10€-20€  
-90m², wooden floor.  
+Hosted by Stefan Prowaznik, Barbara Reschenhofer, Barbara Rappauer, Ingrid Hörlezeder\
+Fee: 10€-20€\
+90m², wooden floor.\
 Music jam; Guided warm up. average 15 dancers.
 
 (This is **not** the rollingpoint jam which previously took place on Sunday. The rollingpoint jam has moved to Tuesdays.)
+
 </div>
 
 </section>
 
 </article>
-
 
 <article>
 
@@ -207,13 +204,12 @@ Other occasional jams in (and around) Vienna:
 
 See [calendar](/calendar/jams) for details!
 
-
 on some tuesdays
 
 * [CI-Jam in St.Andrä-Wördern](https://www.freibewegt.at/frei-tanzen/jam-in-w%C3%B6rdern/) by Claudia Lui Springer at Alte Werkstatt, Lehnergasse 17, 3423 St.Andrä-Wördern
 
 on some fridays
 
-* [Semmelweiß-Jam] by Ursula Fink at Semmelweißklinik, Hockegasse 37, Haus 4, Bewegungsraum, 1180 Wien; 18:15-20:30
+* \[Semmelweiß-Jam] by Ursula Fink at Semmelweißklinik, Hockegasse 37, Haus 4, Bewegungsraum, 1180 Wien; 18:15-20:30
 
 </article>
