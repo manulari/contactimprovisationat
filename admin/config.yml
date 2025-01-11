@@ -7,7 +7,7 @@ backend:
   #auth_endpoint: /prod/auth
   branch: main # Branch to update (optional; defaults to master)
 media_folder: 'images/content/'
-site_url: https://new.contactimprovisation.at/
+site_url: https://vienna.contactimprovisation.at/
 collections:
   - name: 'global_config'
     label: 'Settings'
