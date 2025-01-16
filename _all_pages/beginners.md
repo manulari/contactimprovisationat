@@ -9,7 +9,7 @@ Welcome to Contact Improvisation! We have gathered some basic information and so
 We recommend that you do not attend a Contact Jam without a minimum of prior knowledge. Although CI claims to be able to be practiced without prior training, there are (implicit) rules of conduct and physical safety at jams that should ensure that everything runs as smoothly as possible. 
 To get started, we recommend attending workshops that teach you not only physical skills, but also the soft skills that go with them. If you are unsure whether a workshop or a jam is right for you, please ask the organizers directly or send us a message.
 
-If you have any questions about the local offerings, or want to give us feedback about your experience, feel free to contact us.
+If you have any questions about the local offerings, or want to give us feedback about your experience, feel free to contact  us.
 
 * [jam info](#ajaminfo)
 * [calendar](#acalendar) *this calendar shows you a selection of workshops and classes most suitable for beginners - if you want to check out the whole offer, take a look at the [main calendar](/calendar)*
