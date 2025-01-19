@@ -186,7 +186,7 @@ Where:
 [Facebook group](https://www.facebook.com/groups/ContactImprovisationWien/permalink/9987013021369822)
 
 Hosted by Stefan Prowaznik, Barbara Reschenhofer, Barbara Rappauer, Ingrid Hörlezeder\
-Fee: 10€-20€\
+Fee: 5-15€\
 90m², wooden floor.\
 Music jam; Guided warm up. average 15 dancers.
 
