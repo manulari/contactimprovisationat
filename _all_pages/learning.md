@@ -8,7 +8,6 @@ title: learning
 
 ## Teachers in Vienna
 
-
 <article>
 
 ![Grégory Chevalier](images/content/teacher-gregorychevalier.jpg)
@@ -23,21 +22,19 @@ Grégory Chevalier is a dancer, choreographer, teacher and community maker. Main
 
 </article>
 
-
 <article>
 
 ![Ursula Fink](images/content/teacher-ursula_fink.jpeg)
 
 <div>
 
-### [Ursula Fink](https://www.movingintopresence.at/contact-improvisation/)
+### [Ursula Fink](https://ursulafink.com/Teaching-Embodiment-Facilitation)
 
 Ursula Fink is a Vienna-based artist & choreographer with a background in contemporary dance, science/psychology and spiritual self developement practices. Sharing contact improvisation as an artform between sensory bodywisdom and physics in movement.
 
 </div>
 
 </article>
-
 
 <article>
 
@@ -53,7 +50,6 @@ Juli Gabor is a Holistic Dance Pedagogue, Bachelor in Danish Psychomotor Therapy
 
 </article>
 
-
 <article>
 
 ![Inge Kaindlstorfer](images/content/teacher-kaindlstorfer2.jpeg)
@@ -67,7 +63,6 @@ Inge Kaindlstorfer lebt in Wien und unterrichtet seit 1986 Contact- und Ensemble
 </div>
 
 </article>
-
 
 <article>
 
@@ -83,7 +78,6 @@ We love passionately Contact Improvisation, Authentic Movement and NonViolent Co
 
 </article>
 
-
 <article>
 
 ![Matan Levkowich](images/content/teacher-matanlevkowich.png)
@@ -97,7 +91,6 @@ contemporary dance and contact improvisation teacher with background in martial 
 </div>
 
 </article>
-
 
 <article>
 
@@ -113,7 +106,6 @@ I’ve been dancing CI since 1991 and teaching it since 1994. I research the app
 
 </article>
 
-
 <article>
 
 ![Sabine Müller](images/content/teacher-sabine_mueller.png)
@@ -127,7 +119,6 @@ Curious about the body, movement, improvisation, expression, connection and how 
 </div>
 
 </article>
-
 
 <article>
 
@@ -143,7 +134,6 @@ Sabin Parzer ist Leiterin und Gründerin des Holistic Dance Institute (gegründe
 
 </article>
 
-
 <article>
 
 ![Rollingpoint – Verein für Contact Improvisation](images/content/teacher-rollingpoint.png)
@@ -158,7 +148,6 @@ Christian Apschner & Maria Probst - 20 years of teaching experience in the field
 
 </article>
 
-
 <article>
 
 ![Monika Schuberth](images/content/teacher-schuberth.png)
@@ -167,12 +156,9 @@ Christian Apschner & Maria Probst - 20 years of teaching experience in the field
 
 ### [Monika Schuberth](https://www.facebook.com/profile.php?id=100055662833185)
 
-
-
 </div>
 
 </article>
-
 
 <article>
 
@@ -188,7 +174,6 @@ Passionate about the possibilities to learn through movement and dance. Combinin
 
 </article>
 
-
 <article>
 
 ![Lena Turek](images/content/teacher-turek.jpeg)
@@ -203,17 +188,11 @@ Curious about sensitivity, awareness and movement - connecting the areas of Cont
 
 </article>
 
-
-
-
 </div>
-
-
 
 <div class="reflections">
 
 ## Reflections on contact improvisation — international links
-
 
 <article>
 
@@ -229,7 +208,6 @@ THE journal about contact improvisation.
 
 </article>
 
-
 <article>
 
 ![Contact Improvisation Blog](/images/content/reflections-ciblog.png)
@@ -244,7 +222,6 @@ reflections and opinions on CI from NYC - Key readings for the intermediate danc
 
 </article>
 
-
 <article>
 
 <div>
@@ -256,7 +233,6 @@ Articles by Sarah Gottlieb on myths in CI
 </div>
 
 </article>
-
 
 <article>
 
@@ -272,7 +248,6 @@ Blog by Kathleen Rea about CI and consent
 
 </article>
 
-
 <article>
 
 ![Radical Contact](/images/content/reflections-radical.png)
@@ -286,7 +261,6 @@ Safer Spaces Policy
 </div>
 
 </article>
-
 
 <article>
 
@@ -302,7 +276,6 @@ Texts about CI by Jörg Hassmann
 
 </article>
 
-
 <article>
 
 ![CI Global Calendar](/images/content/reflections-ciglobal.png)
@@ -316,8 +289,6 @@ Global CI calendar
 </div>
 
 </article>
-
-
 
 </div>
 
