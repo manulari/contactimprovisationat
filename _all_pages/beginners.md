@@ -26,7 +26,7 @@ If you have any questions about the local offerings, or want to give us feedback
 
 you can also download the text as .pdf right here: (Deutscher Text weiter unten!)
 
-* <a href="/images/content/ci-jam-info-1-0e.pdf" target="_blank">CI-Jam-Info 1-0 deutsch</a>
+* <a href="/images/content/ci-jam-info-1-0.pdf" target="_blank">CI-Jam-Info 1-0 deutsch</a>
 * <a href="/images/content/ci-jam-info-1-0e.pdf" target="_blank">CI-Jam-Info 1-0 english</a>
 
 ## Contact Improvisation Jam Information
