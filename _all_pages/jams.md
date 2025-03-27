@@ -13,12 +13,10 @@ As different jams have different atmospheres, we suggest to give all of them a t
 
 ## News:
 
-Sunday-Jam is now starting an hour earlier! Doors open 18:15, Beginning Circle 18:30, entry until 19:30, Dancing until 20:30.
+Sunday-Jam is changing its starting time to 19:00 (entry until 20:30) \
+(27.3.2025)
 
-Some jams are already back on schedule, some are not - please check the calendar before going!\
-WUK-Jam will be back on **some** Fridays, and there will be an new Jam at 'Semmelweißklinik' from the end of September. (18.09.2024)
 
-</header>
 
 <article>
 
@@ -44,9 +42,8 @@ Website: [rollingpoint.at/...](https://rollingpoint.at/jams)
 
 Hosted by rollingpoint - Christian Apschner\
 Fee: 7-12€\
-Big school gym; music in the 2nd half of the jam\
-"Special hour" before the jam — one hour class by
-changing guest teachers.\
+Big school gym; Showers available.\
+music in the 2nd half of the jam\
 Basic CI knowledge is required, except on
 [certain dates](https://rollingpoint.at/jams) when
 there is a beginner intro before the jam.
@@ -85,7 +82,8 @@ Website: <https://www.xn--frhstck-software-kzbd.at/Jam>
 Hosting Team: Sabine Radlegger, Christoph Ruip, Susanne Aichinger, Helmut Proissl,
 Erich Frühstück;\
 fee: 10€\
-75m², wooden floor; average 5-10 dancers.
+75m², wooden floor; average 5-10 dancers. \
+Showers available.
 
 </div>
 
@@ -105,7 +103,7 @@ fee: 10€\
 
 When:
 
-> Thursdays from 18:00 - 20:30 (Entrance until 19:30)(not during school-holidays)
+> Thursdays from 18:00 - 20:30 (Entrance until 19:15)(not during school-holidays)
 
 Where:
 
@@ -119,6 +117,7 @@ Website: <https://movementlab.eu/weekly-jams>
 Hosted by Matan Levkowich, Juli Gabor and guest teachers\
 Fee: 8-10€/sliding scale\
 120m², wooden floor; average 15-20 dancers\
+Showers available.\
 Not recommended for people without any past experience with Contact Improvisation.  
 
 </div>
@@ -155,6 +154,7 @@ Hosting-team: Juli Gabor, Lena Maya Turek;\
 Fee: 5-15€\
 100m²; average 10 dancers\
 Silent jam\
+Showers available.\
 For dancers with solid previous experience in CI.  
 
 </div>
@@ -175,7 +175,7 @@ For dancers with solid previous experience in CI.
 
 When:
 
-> Sundays from 18:15 to 20:30  (opening circle 18:30, entry until 19:30)
+> Sundays from 19:00 to 21:30  (opening circle 19:15, entry until 20:00)
 
 Where:
 
@@ -208,8 +208,8 @@ on some tuesdays
 
 * [CI-Jam in St.Andrä-Wördern](https://www.freibewegt.at/frei-tanzen/jam-in-w%C3%B6rdern/) by Claudia Lui Springer at Alte Werkstatt, Lehnergasse 17, 3423 St.Andrä-Wördern
 
-on some fridays
+every second friday
 
-* \[Semmelweiß-Jam] by Ursula Fink at Semmelweißklinik, Hockegasse 37, Haus 4, Bewegungsraum, 1180 Wien; 18:15-20:30
+* \[Semmelweiß-Jam] by Ursula Fink at Semmelweißklinik, Hockegasse 37, Haus 4, Bewegungsraum, 1180 Wien; 18:30-20:45
 
 </article>
