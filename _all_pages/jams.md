@@ -16,8 +16,6 @@ As different jams have different atmospheres, we suggest to give all of them a t
 Sunday-Jam is changing its starting time to 19:00 (entry until 20:30) \
 (27.3.2025)
 
-
-
 <article>
 
 ## [rollingpoint jam](https://rollingpoint.at/jams)
@@ -138,7 +136,7 @@ Not recommended for people without any past experience with Contact Improvisatio
 
 When:
 
-> not regularly on Fridays 18:45 to 21:30 (start at 19:00) 
+> Every second Friday 18:45 to 21:30 (start at 19:00) 
 
 Where:
 
