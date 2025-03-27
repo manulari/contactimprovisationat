@@ -25,10 +25,8 @@ More info about [this website and the people behind it](/about).
 
 ## News
 
-Sunday-Jam is now starting an hour earlier! Doors open 18:15, Beginning Circle 18:30, entry until 19:30, Dancing until 20:30.
-
-Some jams are already back on schedule, some are not - please check the calendar before going!\
-WUK-Jam will be back on **some** Fridays, and there will be an new Jam at 'Semmelweißklinik' from the end of September. (18.09.2024)
+Sunday-Jam is changing its starting time to 19:00 (entry until 20:30) \
+(27.3.2025)
 
 We're on telegram now. For those who can't or don't want to check our fb-group, we have started a telegram-chanel where we post all the information from the fb-group. stay updated! 
 <https://t.me/contactimprovisationwien> (16.1.2024)
