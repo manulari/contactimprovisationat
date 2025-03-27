@@ -116,7 +116,7 @@ Hosted by Matan Levkowich, Juli Gabor and guest teachers\
 Fee: 8-10€/sliding scale\
 120m², wooden floor; average 15-20 dancers\
 Showers available.\
-Not recommended for people without any past experience with Contact Improvisation.  
+Previous experience in CI or contemporary dance required.
 
 </div>
 
