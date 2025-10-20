@@ -173,7 +173,7 @@ For dancers with solid previous experience in CI.
 
 When:
 
-> Sundays from 19:00 to 21:30  (opening circle 19:15, entry until 20:00)
+> Sundays from 18:15 to 20:30  (opening circle 18:30, entry until 19:00)
 
 Where:
 
@@ -183,12 +183,10 @@ Where:
 
 [Facebook group](https://www.facebook.com/groups/ContactImprovisationWien/permalink/9987013021369822)
 
-Hosted by Stefan Prowaznik, Barbara Reschenhofer, Barbara Rappauer, Ingrid Hörlezeder\
+Hosted by Ingrid Hörletzeder, Christine Puchner, Andrea Novacescu & Stefan Prowaznik 
 Fee: 5-15€\
 90m², wooden floor.\
 Music jam; Guided warm up. average 15 dancers.
-
-(This is **not** the rollingpoint jam which previously took place on Sunday. The rollingpoint jam has moved to Tuesdays.)
 
 </div>
 
