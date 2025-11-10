@@ -13,8 +13,7 @@ As different jams have different atmospheres, we suggest to give all of them a t
 
 ## News:
 
-Sunday-Jam is changing its starting time to 19:00 (entry until 20:30) \
-(27.3.2025)
+\-
 
 <article>
 
