@@ -94,19 +94,7 @@ contemporary dance and contact improvisation teacher with background in martial 
 
 <article>
 
-![Malcolm Manning](images/content/teacher-malcolmmanning2.jpeg)
 
-<div>
-
-### [Malcolm Manning](https://movetolearn.com/portfolio/contact-improvisation/)
-
-I’ve been dancing CI since 1991 and teaching it since 1994. I research the application of somatics to contemporary dance and teach a regular Tuning Class at TQW one of the major strands of which is Steve Paxton’s Material For The Spine.
-
-</div>
-
-</article>
-
-<article>
 
 ![Sabine Müller](images/content/teacher-sabine_mueller.png)
 
