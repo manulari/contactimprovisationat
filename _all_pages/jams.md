@@ -149,10 +149,54 @@ Website: <https://www.wuk.at/angebot/contact-improvisation-jam/>
 
 Hosting-team: Juli Gabor, Lena Maya Turek;\
 Fee: 5-15€\
-100m²; average 10 dancers\
+100m²; wooden floor. average 10 dancers\
 Silent jam\
 Showers available.\
 For dancers with solid previous experience in CI.  
+
+</div>
+
+</section>
+
+</section>
+
+</article>
+
+<article>
+
+## Jam to be
+
+<section>
+
+![people moving in a jam space](/images/content/jamtobe.jpg)
+
+<div>
+
+When:
+
+> Every second Friday 18:45 to 21:45 (start at 19:00, doors close afterwards)
+
+Where:
+
+> WEST/POST\
+> Schumanngasse 101
+>
+> 1170 Wien
+>
+> Stiege 4, 2nd Floor 
+>
+> ([google maps](https://maps.app.goo.gl/tEopfZZNYX335AtR8)) 
+
+Website: [](https://www.wuk.at/angebot/contact-improvisation-jam/)<https://www.instagram.com/jamtobe/>
+
+Hosting-team: Arleziana Fundiur, Alina Nuria Pacher, Levi Mühlbacher,\
+Elena Lach, Annu Nindl
+
+Fee: 8-24€\
+80m², vinyl floor; average 20+ dancers\
+music jam, regular live music jams.\
+No Showers available.\
+Open level, beginners welcome.  
 
 </div>
 
@@ -198,13 +242,5 @@ Music jam; Guided warm up. average 15 dancers.
 Other occasional jams in (and around) Vienna:
 
 See [calendar](/calendar/jams) for details!
-
-on some tuesdays
-
-* [CI-Jam in St.Andrä-Wördern](https://www.freibewegt.at/frei-tanzen/jam-in-w%C3%B6rdern/) by Claudia Lui Springer at Alte Werkstatt, Lehnergasse 17, 3423 St.Andrä-Wördern
-
-every second friday
-
-* \[Semmelweiß-Jam] by Ursula Fink at Semmelweißklinik, Hockegasse 37, Haus 4, Bewegungsraum, 1180 Wien; 18:30-20:45
 
 </article>
