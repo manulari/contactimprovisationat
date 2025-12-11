@@ -112,7 +112,7 @@ Where:
 Website: <https://movementlab.eu/weekly-jams> 
 
 Hosted by Matan Levkowich, Juli Gabor and guest teachers\
-Fee: 8-10€/sliding scale\
+Fee: 10-15€/sliding scale\
 120m², wooden floor; average 15-20 dancers\
 Showers available.\
 Previous experience in CI or contemporary dance required.
@@ -192,7 +192,7 @@ Website: [](https://www.wuk.at/angebot/contact-improvisation-jam/)<https://www.i
 Hosting-team: Arleziana Fundiur, Alina Nuria Pacher, Levi Mühlbacher,\
 Elena Lach, Annu Nindl
 
-Fee: 8-24€\
+Fee: 8-24€ / 12-28€ when live music jam.\
 103m², vinyl floor/puzzle mats; average 20+ dancers\
 music jam, regular live music jams.\
 No Showers available.\
