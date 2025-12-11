@@ -193,7 +193,7 @@ Hosting-team: Arleziana Fundiur, Alina Nuria Pacher, Levi Mühlbacher,\
 Elena Lach, Annu Nindl
 
 Fee: 8-24€\
-80m², vinyl floor; average 20+ dancers\
+103m², vinyl floor/puzzle mats; average 20+ dancers\
 music jam, regular live music jams.\
 No Showers available.\
 Open level, beginners welcome.  
