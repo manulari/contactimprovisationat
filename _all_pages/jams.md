@@ -164,7 +164,7 @@ For dancers with solid previous experience in CI.
 
 <article>
 
-## Jam to be
+## [Jam to be](https://www.instagram.com/jamtobe/)
 
 <section>
 
