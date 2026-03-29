@@ -40,7 +40,7 @@ We're on telegram now. For those who can't or don't want to check our fb-group, 
   <https://t.me/contactimprovisationwien>
 * *Our friends elsewhere in Austria:*
 
-  * <https://graz.contactimprovisation.at>
+  * [CI Collective Linz](https://linz.contact-improvisation.org/)
   * [Contactus Salzburg](https://www.facebook.com/ContactImprovisationSalzburg/)
   * [Innsbruck Contact Jam](http://www.contactjam.at/)
 
