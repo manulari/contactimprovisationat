@@ -66,13 +66,17 @@ Inge Kaindlstorfer lebt in Wien und unterrichtet seit 1986 Contact- und Ensemble
 
 <article>
 
-![Christian Lechner](images/content/teacher-wegezurfuelle.png)
+![Christian Lechner](/images/content/clechner1.jpg)
 
 <div>
 
 ### [Christian Lechner](https://artofcontact.at/)
 
-We love passionately Contact Improvisation, Authentic Movement and NonViolent Communication. Beginners and advanced dancers are welcome!
+Contact Improvisation, for me, is a practice that combines sport, art, relationship training, and playfulness. Sometimes soft, sometimes wild — always a surprise.
+
+I have been dancing since 2008 and teaching Contact Improvisation since 2015 through weekly classes and weekend workshops within my community.
+
+In “Power Contact,” the focus lies more on the physical vocabulary — from rolling to lifting — while other formats such as “Dance Space” emphasize self-awareness, boundaries, and relational skills.
 
 </div>
 
@@ -93,8 +97,6 @@ contemporary dance and contact improvisation teacher with background in martial 
 </article>
 
 <article>
-
-
 
 ![Sabine Müller](images/content/teacher-sabine_mueller.png)
 
