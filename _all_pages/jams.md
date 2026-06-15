@@ -216,7 +216,8 @@ Open level, beginners welcome.
 
 When:
 
-> Sundays from 18:15 to 20:30  (opening circle 18:30, entry until 19:00)
+> Sundays from 19:15, opening circle 19:30, dancing -apx.21:30
+> Doors open until apx.20:30
 
 Where:
 
