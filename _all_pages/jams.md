@@ -135,70 +135,27 @@ Previous experience in CI or contemporary dance required.
 
 When:
 
-> Every second Friday 18:45 to 21:30 (start at 19:00) 
+> Every Friday 18:45 to 21:30 (start at 19:00) 
 
 Where:
 
 > WUK\
 > Währinger Straße 59\
 > 1090 Wien\
-> at room "Flieger" - staircase from the courtyard\
-> ([google maps](https://goo.gl/maps/CPWbQcodfvv)) 
+> at room "1407" - staircase 1 top level ([google maps](https://goo.gl/maps/CPWbQcodfvv)) 
 
-Website: <https://www.wuk.at/angebot/contact-improvisation-jam/>
+Website: <https://www.wuk.at/angebot/contact-improvisation-jam-1/>
 
-Hosting-team: Juli Gabor, Lena Maya Turek;\
+Hosting-team: Sarah Sea Clarke, Clémentine Antier, Asena Boyadzhieva, Christian Weissensteiner, Menno van der Woude, Minou Tsambika Polleros und Christian Lechner
+
 Fee: 5-15€\
-100m²; wooden floor. average 10 dancers\
-Silent jam\
+100m²; wooden floor. average 15 dancers\
 Showers available.\
 For dancers with solid previous experience in CI.  
 
 </div>
 
 </section>
-
-</section>
-
-</article>
-
-<article>
-
-## [Jam to be](https://www.instagram.com/jamtobe/)
-
-<section>
-
-![people moving in a jam space](/images/content/jamtobe.jpg)
-
-<div>
-
-When:
-
-> Every second Friday 18:45 to 21:45 (start at 19:00, doors close afterwards)
-
-Where:
-
-> WEST/POST\
-> Schumanngasse 101
->
-> 1170 Wien
->
-> Stiege 4, 2nd Floor 
->
-> ([google maps](https://maps.app.goo.gl/tEopfZZNYX335AtR8)) 
-
-Website: [](https://www.wuk.at/angebot/contact-improvisation-jam/)<https://www.instagram.com/jamtobe/>
-
-Hosting-team: Arleziana Fundiur, Alina Nuria Pacher, Levi Mühlbacher,\
-Elena Lach, Annu Nindl
-
-Fee: 8-24€ / 12-28€ when live music jam.\
-103m², vinyl floor/puzzle mats; average 20+ dancers\
-music jam, regular live music jams.\
-No Showers available.\
-Open level, beginners welcome.  
-
-</div>
 
 </section>
 
