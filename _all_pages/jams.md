@@ -144,7 +144,7 @@ Where:
 > 1090 Wien\
 > at room "1407" - staircase 1 top level ([google maps](https://goo.gl/maps/CPWbQcodfvv)) 
 
-Website: <https://www.wuk.at/angebot/contact-improvisation-jam-1/>
+Website: <https://www.wuk.at/angebot/workshops-kurse/contact-improvisation-jam-2026-2027/>
 
 Hosting-team: Sarah Sea Clarke, Clémentine Antier, Asena Boyadzhieva, Christian Weissensteiner, Menno van der Woude, Minou Tsambika Polleros und Christian Lechner
 
