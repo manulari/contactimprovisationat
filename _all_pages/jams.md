@@ -173,8 +173,11 @@ For dancers with solid previous experience in CI.
 
 When:
 
-> Sundays from 19:15, opening circle 19:30, dancing -apx.21:30
-> Doors open until apx.20:30
+> Sundays from doors open 18:15 (entry until 19:00)\
+> opening circle 18:30\
+> end apx.20:30
+>
+> fee 5-15 €
 
 Where:
 
