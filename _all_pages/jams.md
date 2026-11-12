@@ -203,4 +203,7 @@ Other occasional jams in (and around) Vienna:
 
 See [calendar](/calendar/jams) for details!
 
+### Upcoming:
+<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;wkst=2&hl=en&bgcolor=%23FFFFFF&src=51136fde11030c47c639ee1e73cde620e249ac416634b26e1f68dea15c68d580%40group.calendar.google.com&color=%23CC3333&ctz=Europe%2FVienna" style="width: 100%; height: 50vh;"/>
+
 </article>
