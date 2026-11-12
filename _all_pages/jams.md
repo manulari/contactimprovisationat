@@ -199,7 +199,7 @@ Music jam; Guided warm up. average 15 dancers.
 
 <article>
 
-Other occasional jams in (and around) Vienna:
+## Other occasional jams in (and around) Vienna:
 
 See [calendar](/calendar/jams) for details!
 
