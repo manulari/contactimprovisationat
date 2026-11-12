@@ -74,7 +74,7 @@ Where:
 >    1060 Wien
 >    ([google maps](https://goo.gl/maps/quBwJEh4cbYWVxaW8))
 
-Website: <https://www.xn--frhstck-software-kzbd.at/Jam>
+Website: [www.frühstück-software.at/Jam](https://www.xn--frhstck-software-kzbd.at/Jam)
 
 Hosting Team: Christoph Ruip, Susanne Aichinger, Helmut Proissl,
 Erich Frühstück;\
