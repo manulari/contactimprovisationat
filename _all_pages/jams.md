@@ -76,11 +76,10 @@ Where:
 
 Website: <https://www.xn--frhstck-software-kzbd.at/Jam>
 
-Hosting Team: Sabine Radlegger, Christoph Ruip, Susanne Aichinger, Helmut Proissl,
+Hosting Team: Christoph Ruip, Susanne Aichinger, Helmut Proissl,
 Erich Frühstück;\
 fee: 10€\
-75m², wooden floor; average 5-10 dancers. \
-Showers available.
+95m², wooden floor; average 5-10 dancers.
 
 </div>
 
